@@ -4,10 +4,10 @@
 
 ## Стек
 
-# 'Python' > 3.5
-# 'Django' < 3.3
-# 'VSCode'
-# 'SQLite3'
+* 'Python' > 3.5
+* 'Django' < 3.3
+* 'VSCode'
+* 'SQLite3'
 
 ## Лицензия
 
